@@ -3,3 +3,8 @@ geopandas
 openpyxl
 pandas
 gunicorn
+numpy
+contextily
+pyproj
+shapely
+matplotlib
